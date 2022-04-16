@@ -1,0 +1,47 @@
+.header{
+    top: 85px;
+    left: 5px;
+    right: 5px;
+    height: 40 px;
+}
+
+.common{
+    border: solid 2px azure;
+}
+
+.main{
+    padding-left:100px;
+    padding-right: 100px;
+}
+
+.footer{
+    bottom: 85px;
+    left: 100px;
+    right: 100px;
+    height: 40px;
+}
+
+.color{
+    background-color:rgb(252, 245, 238);
+}
+
+body{
+    background-color:bisque;
+}
+
+.slant{
+    font-style: italic;
+    font-size: larger;
+}
+
+.darkgrey{
+    color: rgb(74, 76, 83);
+}
+
+.center{
+    text-align: center;
+}
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

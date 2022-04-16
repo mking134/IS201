@@ -1,0 +1,38 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.grey{
+    color: rgb(165, 168, 186);
+}
+
+.darkgrey{
+    color: rgb(74, 76, 83);
+}
+
+.blue{
+    color: azure;
+}
+
+.center{
+    text-align: center;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+.ice{
+    color: rgba(87, 139, 191, 0.983);
+    font-weight: bold;
+    font-family: iceburg;
+    font-size: larger;
+}
+
+body{
+    background-color:bisque;
+}
+
+
+
+
